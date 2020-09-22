@@ -1,2 +1,2 @@
 # Charp
-Repositório para organizar meus projetos de estudo da linguagem C#
+Repositório para guardar meu projeto de avanço da linguagem C#, como inicio apresentando uma calculadora de notas bimestrais utilizando POO.
